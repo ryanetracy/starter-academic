@@ -46,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:rtracy1@gc.cuny.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/ryan_tracy
+- icon: researchgate
+  icon_pack: rg
+  link: https://www.researchgate.net/profile/Ryan_Tracy
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ryanetracy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

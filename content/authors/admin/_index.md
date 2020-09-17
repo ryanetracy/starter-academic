@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryan Tracy
+title: Fuck you
 
 # Username (this should match the folder name)
 authors: Ryan Tracy

@@ -45,4 +45,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a 3rd year PhD Student in the Basic and Applied Social Psychology program at the City University of New York. Working with <a href = "https://sites.google.com/view/scamplab/home?authuser=2">Dr. Steven Young</a>, I explore how top-down (e.g., group membership, behavior) and bottom-up (e.g., face shape) factors interact in the service of impression formation.
+I am a 3rd year PhD Student in the Basic and Applied Social Psychology program at the City University of New York. Working with <a href = "https://cunybasp.org/faculty#young">Dr. Steven Young</a> in the <a href = "https://sites.google.com/view/scamplab/home?authuser=2">Social Cognition and Motivated Perception Lab</a>, I explore how top-down (e.g., group membership, behavior) and bottom-up (e.g., face shape) factors interact in the service of impression formation.

@@ -3,7 +3,7 @@
 title: Ryan Tracy
 
 # Username (this should match the folder name)
-authors:
+authors: Ryan Tracy
 - admin
 
 # Is this the primary user of the site?
@@ -26,6 +26,7 @@ interests:
 - Trait attribution
 - Computational social psychology
 - Social cognition
+- Mental representations of social categories
 
 education:
   courses:

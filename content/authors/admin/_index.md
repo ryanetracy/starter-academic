@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/ryan_tracy
 - icon: researchgate
-  icon_pack: rg
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Ryan_Tracy
 - icon: github
   icon_pack: fab

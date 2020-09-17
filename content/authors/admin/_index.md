@@ -4,7 +4,7 @@ role: PhD Student
 avatar_filename: avatar.jpg
 organizations:
   - name: City University of New York
-    url: ""
+    url: "https://cunybasp.org/"
 superuser: true
 authors:
   - admin
@@ -22,13 +22,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:rtracy1@gc.cuny.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ryan_tracy
+  link: https://twitter.com/ryan_tracy/
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Ryan_Tracy
+  link: https://www.researchgate.net/profile/Ryan_Tracy/
 - icon: github
   icon_pack: fab
-  link: https://github.com/ryanetracy
+  link: https://github.com/ryanetracy/
 education:
   courses:
   - course: PhD in Social Psychology

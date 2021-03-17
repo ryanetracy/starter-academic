@@ -12,10 +12,9 @@ bio: ""
 interests:
   - Face perception
   - Impression formation
-  - Trait attribution
   - Computational social psychology
-  - Social cognition
-  - Mental representations of social categories
+  - Person perception
+  - Mental representations
 social:
 - icon: envelope
   icon_pack: fas
@@ -23,9 +22,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ryan_tracy/
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Ryan_Tracy/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=zr2VKYUAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/ryanetracy/

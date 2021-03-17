@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+**Tracy, R. E.**, Wylie, J. C., & Young, S. G. (Under Review). Low spatial frequency filtering reduces humanness and mind perception. *Social Cognition*.
+
+**Tracy, R. E.**, Porot, N., Mandelbaum, E., & Young, S. G. (Under Review). Disfluency attenuates the reception of pseudoprofound and postmodernist bullshit. *Thinking & Reasoning*.
+
+**Tracy, R. E.**, & Young, S. G. (Under Review). Would he really do that? Face–behavior congruency moderates spontaneous trait inferences. *Personality and Social Psychology Bulletin*.
+
+**Tracy, R. E.**, Wilson, J. P., Slepian, M. L., & Young, S. G. (2020). Facial trustworthiness predicts ingroup inclusion decisions. *Journal of Experimental Social Psychology*, *91*, 104047.
+
+Young, S. G., **Tracy, R. E.**, Wilson, J. P., Rydell, R. J., & Hugenberg, K. (2019). The temporal dynamics of the link between configural face processing and dehumanization. *Journal of Experimental Social Psychology*, *85*, 103883.

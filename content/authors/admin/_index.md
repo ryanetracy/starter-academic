@@ -1,7 +1,7 @@
 ---
 title: Ryan E Tracy
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: ret_img1.jpg
 organizations:
   - name: City University of New York
     url: "https://cunybasp.org/"
